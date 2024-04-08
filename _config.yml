@@ -30,7 +30,7 @@ twitter_username: linhpv
 github_username:  linhpv87
 
 # Build settings
-theme: Hacker
+theme: jekyll-theme-Hacker
 plugins:
   - jekyll-feed
 
